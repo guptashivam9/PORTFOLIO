@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A modern, responsive personal portfolio website built using **HTML**, **CSS**, **JavaScript**, and **jQuery** with animations powered by **ScrollReveal.js**. This site showcases your projects, skills, education, and contact information in a clean and engaging layout.
+A modern, responsive personal portfolio website built using **HTML**, **CSS**, **JavaScript**,with animations powered by **ScrollReveal.js**. This site showcases your projects, skills, education, and contact information in a clean and engaging layout.
 
 ---
 
